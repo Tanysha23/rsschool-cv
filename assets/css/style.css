@@ -1,0 +1,64 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    height: 100%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.maket {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    height: 100%;
+}
+
+.left {
+    background-color: #F08080;
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+.left img {
+    width: 100%;
+}
+
+.content {
+    margin-right: 202px;
+}
+.footer{
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    color: #fff;
+    width: 100%;
+    background-color:#C0C0C0;
+    clear: both;
+}
+.footer a {
+    text-decoration: none;
+    color: #fff;
+}
+.rs_school_js{
+    width: 40px;
+    height: 20px;
+}
+h1 {}
+
+h2 {}
+
+a {
+    color: dodgerblue;
+}
+
+p {
+    padding-left: 25px;
+}
+
+ul li strong {
+    font-size: 1.2em;
+    font-weight: normal;
+}
